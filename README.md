@@ -74,7 +74,7 @@ Copy the jar file to the "../web-container/webapps/openam/WEB-INF/lib" folder wh
 
 ## Before You Begin
 
-Below sections only give you a brief introduction to get started. For more detailed descriptions, refer to the [completed guide](./doc/OneSpan%20Auth%20Tree%20Nodes%20Guide%20-%20v1.2.12.pdf).
+Below sections only give you a brief introduction to get started. For more detailed descriptions, refer to the [completed guide](./doc/OneSpan%20Auth%20Nodes%20Docs%20Guide%20-%20v1.2.12.pdf).
 
 **For OneSpan IAA & RA Users:**
 
